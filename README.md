@@ -1,4 +1,3 @@
 # Generic Board Game
-a generic gambling game about gambling that involves gambling
 
-if you find bugs please report them on the issues tab!
+This game was supposed to be the successor to Generic RNG Game but was never finished.
